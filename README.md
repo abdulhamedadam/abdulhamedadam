@@ -1,23 +1,5 @@
 
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 0;
-      padding: 0;
-    }
-    .container {
-      max-width: 800px;
-      margin: 0 auto;
-      padding: 20px;
-    }
-    h1 {
-      color: #0366d6;
-    }
-    p {
-      color: #586069;
-    }
-  </style>
-</head>
+
 <body>
   <div class="container">
     <h1>Hi there! 👋</h1>
