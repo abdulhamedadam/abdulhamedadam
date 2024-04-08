@@ -1,27 +1,44 @@
+## Hi there 👋
 
+I'm using HTML, CSS, and PHP(Laravel | Codeigniter) to make websites dance. 🕺🏽
 
-<body>
-  <div class="container">
-    <h1>Hi there! 👋</h1>
-    <p>Welcome to my GitHub profile. I'm Abdulhamed Zaghloul, a passionate PHP Laravel| codeigniter Developer from Cairo.</p>
-    <h2>About Me</h2>
-    <p>I enjoy working on various projects, exploring new technologies, and contributing to open source.</p>
-    <h2>Skills</h2>
-    <ul>
-      <li>HTML</li>
-      <li>CSS</li>
-      <li>JavaScript</li>
-      <li>PHP</li>
-      <li>...</li>
-    </ul>
-    <h2>Projects</h2>
-    <ul>
-      <li><a href="#">Project 1</a> - Brief description of the project.</li>
-      <li><a href="#">Project 2</a> - Brief description of the project.</li>
-      <li><a href="#">Project 3</a> - Brief description of the project.</li>
-    </ul>
-    <h2>Contact</h2>
-    <p>You can reach me via email at example@example.com</p>
-  </div>
-</body>
-</html>
+**I love working with**
+
+<div display="flex">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white" alt="Gatsby"/>
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+</div>
+
+### 🔭 I’m working on
+
+- Projects for freelance clients.
+- Growing [Upbeat Code](https://www.upbeatcode.com) to 100k/month visitors.
+
+### 🌱 I’m learning
+
+<div display="flex">
+  <img src="https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white" alt="Hyperledger"/>
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="Ethereum"/>
+  <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator"/>
+</div>
+
+### 🤔 I’m looking for help with
+
+- Integrating AI models to web applications
+
+### 📫 How to reach me
+
+<div display="flex">
+  <a href="https://www.linkedin.com/in/codewithbernard/">
+    <img src="https://www.linkedin.com/in/abdulhamed-zaghloul-8018a1213/?trk=opento_sprofile_details" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/CodeWithBernard">
+    <img src="https://twitter.com/abdulhamedzagh4" alt="Twitter"/>
+  </a>
+  <a href="https://medium.com/@bernardbad">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
+</div>
