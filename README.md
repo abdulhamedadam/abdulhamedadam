@@ -21,17 +21,8 @@ A software engineer who is interested in the software development field and seek
 - Developing Projects: Actively participated in project development, contributing to the creation of new features, and ensuring project success.
 - Team Leader: Effectively collaborated with the team to gather project requirements, ensuring alignment with project goals and objectives.
 
-... (add other experiences similarly)
 
-### PROJECTS
 
-#### CodeIgniter (جمعية ابناء لرعاية االيتام -السعودية)
-[Project Description]
-
-#### Homelet: Real-estate (Laravel-Api)
-[Project Description]
-
-... (add other projects similarly)
 
 ### EDUCATION
 
