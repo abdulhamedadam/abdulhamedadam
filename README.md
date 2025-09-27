@@ -2,49 +2,95 @@
 
 ## PHP Laravel | CodeIgniter Developer
 
-- **Email:** abdulhamedzaghloul@gmail.com
-- **LinkedIn:** [linkedin.com/in/abdulhamed](https://linkedin.com/in/abdulhamed)
-- **GitHub:** [github.com/abdulhamedadam](https://github.com/abdulhamedadam)
-- **Phone:** +20 1021783851
-- **Location:** Egypt, Cairo
+- **Email:** abdulhamedzaghloul@gmail.com  
+- **LinkedIn:** [linkedin.com/in/abdulhamed](https://linkedin.com/in/abdulhamed)  
+- **GitHub:** [github.com/abdulhamedadam](https://github.com/abdulhamedadam)  
+- **Phone:** +20 1021783851  
+- **Location:** Egypt, Menoufia  
+
+---
 
 ### SUMMARY
-A software engineer who is interested in the software development field and seeking to leverage acquired academic knowledge and work experience to effectively fill a software engineer position. Dedicated worker aiming to improve myself and help achieve company goals and take on responsibility as quickly as possible.
+A skilled software engineer with specialized experience in backend development using **PHP, Laravel, CodeIgniter, Livewire, and Filament**. Demonstrated abilities in **project analysis, system optimization, and effective team collaboration**. Recognized for strong **problem-solving skills, mentoring, and dedication** to enhancing software quality and user experience. Also experienced in handling **VPS servers, integrations, and deployment pipelines**.
+
+---
 
 ### EXPERIENCE
 
-#### Backend Developer (Laravel-CodeIgniter)
-**Meta Codex** | Egypt, Cairo (remotely) | Jan 2022-present
-- Conducting Project Analysis: Successfully performed project analysis, gaining a comprehensive understanding of project objectives, scope, and technologies used.
-- Fixing Bugs: Resolved and fixed a wide range of software bugs, ensuring smoother project performance and enhanced user experience.
-- Instructing Junior Programmers: Provided mentorship and guidance to junior programmers, assisting in their skill development, and contributing to team growth.
-- Developing Projects: Actively participated in project development, contributing to the creation of new features, and ensuring project success.
-- Team Leader: Effectively collaborated with the team to gather project requirements, ensuring alignment with project goals and objectives.
+#### Backend Developer (Laravel, Livewire, Filament)  
+**Pure Soft** | Egypt, Menoufia | Jan 2023 - Present  
+- Focused on backend development using Laravel, Livewire, and Filament, contributing to various projects and optimizing application workflows.  
+- Implemented and maintained dynamic user interfaces with Livewire and Filament, enhancing user experience and system responsiveness.  
 
+#### Backend Developer (CodeIgniter)  
+**Future Sword** | Saudi Arabia, Remote | Mar 2024 - Present (Part-time)  
+- Developed and maintained applications using CodeIgniter, ensuring seamless functionality and efficient project workflows.  
+- Collaborated with a remote team to support consistent project alignment and delivery.  
 
+#### Backend Developer (Laravel, CodeIgniter)  
+**Al Atheer-Tech** | Egypt, Shebin El-Kom | Mar 2022 - Jan 2023  
+- Built foundational backend features and supported senior developers on complex tasks.  
+- Actively engaged in code reviews, enhancing code quality, adherence to best practices, and ensuring project standards.  
 
+---
+
+### PROJECTS
+
+- **E-commerce Platform (CodeIgniter & Laravel):**  
+  - Developed a multilingual e-commerce system with cart, payment, and multi-dashboard for store owners and admins.  
+  - **Integrated ZATCA Phase 2 compliance, DHL & Aramex shipping APIs** for automated invoicing and logistics handling.  
+
+- **Elkafi POS System (CodeIgniter):**  
+  Comprehensive POS system used across multiple branches for efficient sales, inventory, and financial management.  
+
+- **Ingaz Freelance Platform (Laravel):**  
+  Built a platform similar to *Mostaql* for freelancers and clients with bidding, messaging, and contract management.  
+
+- **Mashora HR System (Filament/Laravel):**  
+  Custom HR system for law firms including client/case tracking, employee management, and payroll.  
+
+- **Rashaketik Gym Management System (Laravel):**  
+  Membership tracking, class scheduling, attendance monitoring, and payments.  
+
+- **NGO ERP System (CodeIgniter):**  
+  Full ERP for an NGO covering HR, finance, family sponsorship, and reporting.  
+  [Website](https://abna.sa)  
+
+- **Homelet Real Estate Platform:**  
+  Real estate platform with multilingual support, admin control, and client management.  
+
+- **Free Fare Transportation App (Laravel API):**  
+  Mobile app for car sharing with JWT authentication, FCM notifications, and Google Maps API integration.  
+
+- **Law Office Management System (Laravel):**  
+  Modules for client, case, HR, and financial management.  
+
+- **Preschool Management System (Laravel):**  
+  Built a system to manage children enrollment, attendance, classes, and parent communication.  
+
+- **Academy Management System (Laravel):**  
+  Designed an academy system for managing courses, students, exams, and certificates.  
+
+---
 
 ### EDUCATION
+- **Bachelor of Civil Engineering**  
+  *Faculty of Engineering, Shebin El-Kom | Menoufia University*  
+  2015 - 2020 | **Degree:** Very Good  
 
-- **Bachelor of Civil Engineering**
-  - *Faculty of Engineering of shebeen Elkom | Menoufia University* | 2015-2020
-  - **Degree:** Very Good
-
-### LANGUAGES
-
-- Arabic: Native
-- English: Fluent
-- German: Intermediate
+---
 
 ### SKILLS
 
-- Laravel (Advanced)
-- CodeIgniter (Advanced)
-- PHP (Advanced)
-- HTML (Advanced)
-- Bootstrap (Advanced)
-- Python (Intermediate)
-- Java (Intermediate)
-- Problem Solving (Advanced)
-- Project Analysis (Intermediate)
-- Database Analysis (Intermediate)
+- **Backend Development:** PHP, Laravel, Livewire, Filament, CodeIgniter  
+- **Frontend Tools:** HTML, CSS, Bootstrap, JavaScript, jQuery  
+- **Other Languages:** Python (Intermediate), Java (Intermediate)  
+- **System & Databases:** Project Analysis, Database Analysis, VPS Server Management  
+- **Soft Skills:** Problem Solving, Mentorship, Team Collaboration  
+
+---
+
+### LANGUAGES
+- Arabic: Native  
+- English: Fluent  
+- German: Intermediate  
