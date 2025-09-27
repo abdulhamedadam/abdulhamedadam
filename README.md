@@ -6,7 +6,7 @@
 - **LinkedIn:** [linkedin.com/in/abdulhamed](https://linkedin.com/in/abdulhamed)  
 - **GitHub:** [github.com/abdulhamedadam](https://github.com/abdulhamedadam)  
 - **Phone:** +20 1021783851  
-- **Location:** Egypt, Menoufia  
+- **Location:** Egypt, Cairo 
 
 ---
 
